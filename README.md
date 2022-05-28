@@ -8,7 +8,7 @@ I am a 2nd year undergrad student pursuing Computer Science and Engineering. I a
 * 🧠  I'm learning Machine Learning (PyTorch, Tensorflow, Keras)
 * 🤝  I'm open to collaborating on Open Source Projects
 
-### Skills
+### Tools and Languages
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
